@@ -1,0 +1,61 @@
+.mainForm {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.dropDowns {
+    width: 30%;
+}
+
+.input {
+    height: 10em;
+    width: 80%;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    width: 10em;
+}
+
+.topics {
+    display: flex;
+    list-style-type: none;  
+    margin: 0;
+    padding: 0; 
+}
+
+.letterList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.singleLetter {
+    background-color: lightgreen;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 6px;
+}
+
+.topicStyle {
+    background-color: goldenrod;
+    width: max-content;
+    margin: 1em;
+    padding: 5px;
+    outline: black dotted 1px;
+    border-radius: 6px;
+}
+
+.topicItems {
+    padding: 5px;
+}
+
+.label {
+    padding: 1em;
+    font-weight: bold;
+}

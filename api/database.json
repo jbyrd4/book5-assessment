@@ -1,0 +1,120 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Mark Twain",
+      "email": "MTwain@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Maya Angelou",
+      "email": "Maya@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Jury Byrd",
+      "email": "JByrd4@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Robert Jordan",
+      "email": "Robert.Jordan@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Brandon Sanderson",
+      "email": "BranSan@gmail.com"
+    }
+  ],
+  "recipients": [
+    {
+      "id": 1,
+      "name": "Mark Twain",
+      "email": "MTwain@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Maya Angelou",
+      "email": "Maya@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Jury Byrd",
+      "email": "JByrd4@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Robert Jordan",
+      "email": "Robert.Jordan@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Brandon Sanderson",
+      "email": "BranSan@gmail.com"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "Business"
+    },
+    {
+      "id": 2,
+      "name": "Friendly"
+    },
+    {
+      "id": 3,
+      "name": "Family"
+    },
+    {
+      "id": 4,
+      "name": "Congratulations"
+    },
+    {
+      "id": 5,
+      "name": "Condolences"
+    }
+  ],
+  "letters": [
+    {
+      "author": "Mark Twain",
+      "authorEmail": "MTwain@gmail.com",
+      "letterText": "This is a test of sending a letter from one author to another to see if it all works.",
+      "topic": "Business",
+      "recipient": "Maya Angelou",
+      "recipientEmail": "Maya@gmail.com",
+      "date": "Mon Jan 03 2022 13:55:18 GMT-0600 (Central Standard Time)",
+      "id": 1
+    },
+    {
+      "author": "Jury Byrd",
+      "authorEmail": "JByrd4@gmail.com",
+      "letterText": "The last letter worked so now we are testing the topics. Does the right topic show up? We will choose friendly for this one.",
+      "topic": "Friendly",
+      "recipient": "Maya Angelou",
+      "recipientEmail": "Maya@gmail.com",
+      "date": "Mon Jan 03 2022 13:55:45 GMT-0600 (Central Standard Time)",
+      "id": 2
+    },
+    {
+      "author": "Brandon Sanderson",
+      "authorEmail": "BranSan@gmail.com",
+      "letterText": "Friendly worked so now we will try a few more",
+      "topic": "Condolences",
+      "recipient": "Robert Jordan",
+      "recipientEmail": "Robert.Jordan@gmail.com",
+      "date": "Mon Jan 03 2022 13:55:58 GMT-0600 (Central Standard Time)",
+      "id": 3
+    },
+    {
+      "author": "Robert Jordan",
+      "authorEmail": "Robert.Jordan@gmail.com",
+      "letterText": "asfgdhdfghsfdhg",
+      "topic": "Congratulations",
+      "recipient": "Robert Jordan",
+      "recipientEmail": "Robert.Jordan@gmail.com",
+      "date": "Mon Jan 03 2022 13:56:04 GMT-0600 (Central Standard Time)",
+      "id": 4
+    }
+  ]
+}
